@@ -39,8 +39,5 @@ USER appuser
 # Pre-download models/assets at build time
 RUN uv run src/agent.py download-files
 
-# Health check endpoint for Railway
-EXPOSE 8080
-
 # Start the agent
 CMD ["uv", "run", "src/agent.py", "start"]
