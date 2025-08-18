@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
+    "dev:agent": "cd agent && .venv\\Scripts\\python src/agent.py dev",
+    "dev:full": "concurrently \"npm run dev\" \"npm run dev:agent\"",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
@@ -41,6 +43,7 @@
     "@types/node": "^22.0.0",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "concurrently": "^9.2.0",
     "eslint": "^9",
     "eslint-config-next": "15.4.6",
     "eslint-config-prettier": "^10.1.5",
