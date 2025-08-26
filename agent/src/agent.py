@@ -90,10 +90,14 @@ Just talk to me naturally - I'll automatically use the right tools to help you! 
             
             # Get full content for the results
             if result.results:
-                result = exa.get_contents(
-                    ids=[item.id for item in result.results],
+                content_result = exa.get_contents(
+                    urls=[item.url for item in result.results],
                     text=True
                 )
+                # Merge the search results with content
+                for i, item in enumerate(result.results):
+                    if i < len(content_result.results):
+                        item.text = content_result.results[i].text
             
             if not result.results:
                 return "I couldn't find any relevant information for that search query."
