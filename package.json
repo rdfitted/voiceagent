@@ -8,7 +8,14 @@
     "type": "git",
     "url": "https://github.com/rdfitted/voiceagent"
   },
-  "keywords": ["voice-ai", "livekit", "nextjs", "python", "assistant", "boilerplate"],
+  "keywords": [
+    "voice-ai",
+    "livekit",
+    "nextjs",
+    "python",
+    "assistant",
+    "boilerplate"
+  ],
   "scripts": {
     "dev": "next dev --turbopack",
     "dev:agent": "cd agent && .venv\\Scripts\\python src/agent.py dev",

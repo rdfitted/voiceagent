@@ -100,3 +100,9 @@ $RECYCLE.BIN/
 
 # Documentation files (if auto-generated)
 docs/build/
+
+# Generated documentation and guidelines
+CLAUDE.md
+WARP.md
+fitted-automation-brand-guidelines.md
+voice-ai-implementation-guide.md

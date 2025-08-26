@@ -38,8 +38,8 @@
   --card-foreground: oklch(0.145 0 0);
   --popover: oklch(1 0 0);
   --popover-foreground: oklch(0.145 0 0);
-  --primary: #0074FF;
-  --primary-hover: #005CE6;
+  --primary: #0074ff;
+  --primary-hover: #005ce6;
   --primary-foreground: oklch(0.985 0 0);
   --secondary: oklch(0.97 0 0);
   --secondary-foreground: oklch(0.205 0 0);
@@ -93,14 +93,14 @@
   --separatorModerate: #3f2208;
   --separatorAccent: #0c1640;
 
-  --background: #0B213E;
+  --background: #0b213e;
   --foreground: #ffffff;
-  --card: #0F172A;
+  --card: #0f172a;
   --card-foreground: #ffffff;
   --popover: oklch(0.269 0 0);
   --popover-foreground: oklch(0.985 0 0);
-  --primary: #0074FF;
-  --primary-hover: #005CE6;
+  --primary: #0074ff;
+  --primary-hover: #005ce6;
   --primary-foreground: oklch(0.205 0 0);
   --secondary: oklch(0.269 0 0);
   --secondary-foreground: oklch(0.985 0 0);
@@ -130,12 +130,12 @@
   --font-family-poppins: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
   --font-family-roboto: var(--font-roboto), ui-sans-serif, system-ui, sans-serif;
   --font-family-mono: var(--font-commit-mono), ui-monospace, monospace;
-  
-  --color-fitted-navy: #0B213E;
-  --color-fitted-blue: #0074FF;
-  --color-fitted-slate: #0F172A;
+
+  --color-fitted-navy: #0b213e;
+  --color-fitted-blue: #0074ff;
+  --color-fitted-slate: #0f172a;
   --color-fitted-gray: #313131;
-  
+
   --color-fg1: var(--fg1);
   --color-fg2: var(--fg2);
   --color-fg3: var(--fg3);
@@ -215,13 +215,13 @@
   body {
     @apply bg-background text-foreground;
   }
-  
+
   html {
     color-scheme: dark;
   }
-  
+
   body {
-    background: #0B213E;
+    background: #0b213e;
     color: #ffffff;
   }
 }

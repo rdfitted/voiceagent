@@ -13296,5 +13296,2811 @@
       "exceeds_200k_tokens": false
     },
     "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:38:50.347327",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.626610100000003,
+        "total_duration_ms": 4495898,
+        "total_api_duration_ms": 1703847,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:38:50.435573",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.626610100000003,
+        "total_duration_ms": 4495898,
+        "total_api_duration_ms": 1703847,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:39:07.471164",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.664865200000003,
+        "total_duration_ms": 4513035,
+        "total_api_duration_ms": 1712670,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:39:07.565154",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.664865200000003,
+        "total_duration_ms": 4513035,
+        "total_api_duration_ms": 1712670,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:39:18.989716",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.6652812000000035,
+        "total_duration_ms": 4524563,
+        "total_api_duration_ms": 1714433,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:39:19.055251",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.6652812000000035,
+        "total_duration_ms": 4524563,
+        "total_api_duration_ms": 1714433,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:39:19.920088",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.704170350000004,
+        "total_duration_ms": 4525477,
+        "total_api_duration_ms": 1723200,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:39:19.985797",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.704170350000004,
+        "total_duration_ms": 4525477,
+        "total_api_duration_ms": 1723200,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:39:33.698163",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.743905750000003,
+        "total_duration_ms": 4539209,
+        "total_api_duration_ms": 1736540,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:39:33.777161",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.743905750000003,
+        "total_duration_ms": 4539209,
+        "total_api_duration_ms": 1736540,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:39:44.839267",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.744320150000004,
+        "total_duration_ms": 4550443,
+        "total_api_duration_ms": 1739422,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:39:44.906848",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.744320150000004,
+        "total_duration_ms": 4550443,
+        "total_api_duration_ms": 1739422,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:39:47.225899",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.783332150000003,
+        "total_duration_ms": 4552827,
+        "total_api_duration_ms": 1747856,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:39:47.287664",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.783332150000003,
+        "total_duration_ms": 4552827,
+        "total_api_duration_ms": 1747856,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:39:55.651608",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.822134750000004,
+        "total_duration_ms": 4561179,
+        "total_api_duration_ms": 1756057,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:39:55.751764",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.822134750000004,
+        "total_duration_ms": 4561179,
+        "total_api_duration_ms": 1756057,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:40:17.979666",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.862584400000004,
+        "total_duration_ms": 4583515,
+        "total_api_duration_ms": 1772126,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:40:18.044106",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.862584400000004,
+        "total_duration_ms": 4583515,
+        "total_api_duration_ms": 1772126,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:40:31.585594",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.904084600000004,
+        "total_duration_ms": 4597126,
+        "total_api_duration_ms": 1785624,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:40:31.661209",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.904084600000004,
+        "total_duration_ms": 4597126,
+        "total_api_duration_ms": 1785624,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:46:41.044341",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.904084600000004,
+        "total_duration_ms": 4966681,
+        "total_api_duration_ms": 1785624,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:46:41.085356",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.904084600000004,
+        "total_duration_ms": 4966681,
+        "total_api_duration_ms": 1785624,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:46:41.350360",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.904084600000004,
+        "total_duration_ms": 4966997,
+        "total_api_duration_ms": 1785624,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:46:41.401283",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.904084600000004,
+        "total_duration_ms": 4966997,
+        "total_api_duration_ms": 1785624,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:46:56.617030",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.904351000000004,
+        "total_duration_ms": 4982296,
+        "total_api_duration_ms": 1787387,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:46:56.654216",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 5.904351000000004,
+        "total_duration_ms": 4982296,
+        "total_api_duration_ms": 1787387,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:46:59.226274",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.362751000000004,
+        "total_duration_ms": 4984852,
+        "total_api_duration_ms": 1800284,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:46:59.312945",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.362751000000004,
+        "total_duration_ms": 4984852,
+        "total_api_duration_ms": 1800284,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:08.133651",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.401445300000004,
+        "total_duration_ms": 4992909,
+        "total_api_duration_ms": 1808132,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:08.194674",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.401445300000004,
+        "total_duration_ms": 4992909,
+        "total_api_duration_ms": 1808132,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:17.207710",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.441459300000004,
+        "total_duration_ms": 5002845,
+        "total_api_duration_ms": 1815982,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:17.245516",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.441459300000004,
+        "total_duration_ms": 5002845,
+        "total_api_duration_ms": 1815982,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:25.824139",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.441459300000004,
+        "total_duration_ms": 5011511,
+        "total_api_duration_ms": 1815982,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:25.864381",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.441459300000004,
+        "total_duration_ms": 5011511,
+        "total_api_duration_ms": 1815982,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:27.309077",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.482674500000004,
+        "total_duration_ms": 5012949,
+        "total_api_duration_ms": 1825091,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:27.363774",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.482674500000004,
+        "total_duration_ms": 5012949,
+        "total_api_duration_ms": 1825091,
+        "total_lines_added": 1393,
+        "total_lines_removed": 78
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:39.148230",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.526972050000004,
+        "total_duration_ms": 5024822,
+        "total_api_duration_ms": 1836040,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:39.193285",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.526972050000004,
+        "total_duration_ms": 5024822,
+        "total_api_duration_ms": 1836040,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:48.780619",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.526972050000004,
+        "total_duration_ms": 5033099,
+        "total_api_duration_ms": 1836040,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:48.840520",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.526972050000004,
+        "total_duration_ms": 5033099,
+        "total_api_duration_ms": 1836040,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:48.924819",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.567956700000004,
+        "total_duration_ms": 5034550,
+        "total_api_duration_ms": 1844548,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:48.978414",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.567956700000004,
+        "total_duration_ms": 5034550,
+        "total_api_duration_ms": 1844548,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:58.393525",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.567956700000004,
+        "total_duration_ms": 5044057,
+        "total_api_duration_ms": 1844548,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:47:58.436300",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.567956700000004,
+        "total_duration_ms": 5044057,
+        "total_api_duration_ms": 1844548,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:48:00.378574",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.609980250000004,
+        "total_duration_ms": 5046034,
+        "total_api_duration_ms": 1854667,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:48:00.420162",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.609980250000004,
+        "total_duration_ms": 5046034,
+        "total_api_duration_ms": 1854667,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:48:09.226071",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.609980250000004,
+        "total_duration_ms": 5054916,
+        "total_api_duration_ms": 1854667,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:48:09.266677",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.609980250000004,
+        "total_duration_ms": 5054916,
+        "total_api_duration_ms": 1854667,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:48:12.811296",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.653955600000004,
+        "total_duration_ms": 5058394,
+        "total_api_duration_ms": 1866824,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:48:12.875257",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.653955600000004,
+        "total_duration_ms": 5058394,
+        "total_api_duration_ms": 1866824,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:48:26.676232",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.698378100000003,
+        "total_duration_ms": 5072331,
+        "total_api_duration_ms": 1881610,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:48:26.722747",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.698378100000003,
+        "total_duration_ms": 5072331,
+        "total_api_duration_ms": 1881610,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:48:40.606941",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.739182050000003,
+        "total_duration_ms": 5086269,
+        "total_api_duration_ms": 1892461,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:48:40.653610",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.739182050000003,
+        "total_duration_ms": 5086269,
+        "total_api_duration_ms": 1892461,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:48:55.027802",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.782981900000003,
+        "total_duration_ms": 5100552,
+        "total_api_duration_ms": 1906579,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:48:55.121824",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.782981900000003,
+        "total_duration_ms": 5100552,
+        "total_api_duration_ms": 1906579,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:49:59.286033",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.783162700000003,
+        "total_duration_ms": 5164879,
+        "total_api_duration_ms": 1908123,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:49:59.349282",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.783162700000003,
+        "total_duration_ms": 5164879,
+        "total_api_duration_ms": 1908123,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:00.999402",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.824010700000003,
+        "total_duration_ms": 5166665,
+        "total_api_duration_ms": 1916469,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:01.042824",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.824010700000003,
+        "total_duration_ms": 5166665,
+        "total_api_duration_ms": 1916469,
+        "total_lines_added": 1398,
+        "total_lines_removed": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:12.111619",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.867434500000003,
+        "total_duration_ms": 5177756,
+        "total_api_duration_ms": 1926488,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:12.159882",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.867434500000003,
+        "total_duration_ms": 5177756,
+        "total_api_duration_ms": 1926488,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:20.351989",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.867434500000003,
+        "total_duration_ms": 5185995,
+        "total_api_duration_ms": 1926488,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:20.426394",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.867434500000003,
+        "total_duration_ms": 5185995,
+        "total_api_duration_ms": 1926488,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:23.033878",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.910373200000003,
+        "total_duration_ms": 5188682,
+        "total_api_duration_ms": 1937206,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:23.085264",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.910373200000003,
+        "total_duration_ms": 5188682,
+        "total_api_duration_ms": 1937206,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:34.796888",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.953352900000001,
+        "total_duration_ms": 5200452,
+        "total_api_duration_ms": 1949186,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:34.846693",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.953352900000001,
+        "total_duration_ms": 5200452,
+        "total_api_duration_ms": 1949186,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:48.876497",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.995504450000001,
+        "total_duration_ms": 5214503,
+        "total_api_duration_ms": 1960980,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:48.933345",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.995504450000001,
+        "total_duration_ms": 5214503,
+        "total_api_duration_ms": 1960980,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:59.123952",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.995504450000001,
+        "total_duration_ms": 5224739,
+        "total_api_duration_ms": 1960980,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:59.189263",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.995504450000001,
+        "total_duration_ms": 5224739,
+        "total_api_duration_ms": 1960980,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:59.415794",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.995504450000001,
+        "total_duration_ms": 5225041,
+        "total_api_duration_ms": 1960980,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:50:59.479169",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.995504450000001,
+        "total_duration_ms": 5225041,
+        "total_api_duration_ms": 1960980,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:51:10.387480",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.995815650000001,
+        "total_duration_ms": 5236053,
+        "total_api_duration_ms": 1962425,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:51:10.425218",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 6.995815650000001,
+        "total_duration_ms": 5236053,
+        "total_api_duration_ms": 1962425,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:51:12.042029",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.037644200000001,
+        "total_duration_ms": 5237679,
+        "total_api_duration_ms": 1972078,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:51:12.090266",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.037644200000001,
+        "total_duration_ms": 5237679,
+        "total_api_duration_ms": 1972078,
+        "total_lines_added": 1398,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:51:21.993859",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.079664300000001,
+        "total_duration_ms": 5247645,
+        "total_api_duration_ms": 1980882,
+        "total_lines_added": 1404,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:51:22.038961",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.079664300000001,
+        "total_duration_ms": 5247645,
+        "total_api_duration_ms": 1980882,
+        "total_lines_added": 1404,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:51:31.050365",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.079664300000001,
+        "total_duration_ms": 5256735,
+        "total_api_duration_ms": 1980882,
+        "total_lines_added": 1404,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:51:31.091228",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.079664300000001,
+        "total_duration_ms": 5256735,
+        "total_api_duration_ms": 1980882,
+        "total_lines_added": 1404,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:51:31.920360",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.121485200000001,
+        "total_duration_ms": 5257595,
+        "total_api_duration_ms": 1990647,
+        "total_lines_added": 1404,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:51:31.968126",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.121485200000001,
+        "total_duration_ms": 5257595,
+        "total_api_duration_ms": 1990647,
+        "total_lines_added": 1404,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:51:42.746353",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.123269200000001,
+        "total_duration_ms": 5268347,
+        "total_api_duration_ms": 1993958,
+        "total_lines_added": 1404,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:51:42.821432",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.123269200000001,
+        "total_duration_ms": 5268347,
+        "total_api_duration_ms": 1993958,
+        "total_lines_added": 1404,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:51:43.790913",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.164192800000001,
+        "total_duration_ms": 5269470,
+        "total_api_duration_ms": 2002352,
+        "total_lines_added": 1404,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:51:43.840433",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.164192800000001,
+        "total_duration_ms": 5269470,
+        "total_api_duration_ms": 2002352,
+        "total_lines_added": 1404,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:52:01.132328",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.166820800000002,
+        "total_duration_ms": 5286810,
+        "total_api_duration_ms": 2007900,
+        "total_lines_added": 1404,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:52:01.177470",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.166820800000002,
+        "total_duration_ms": 5286810,
+        "total_api_duration_ms": 2007900,
+        "total_lines_added": 1404,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-08-26T10:52:06.477095",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.225505150000002,
+        "total_duration_ms": 5292146,
+        "total_api_duration_ms": 2022023,
+        "total_lines_added": 1404,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-08-26T10:52:06.524626",
+    "version": "v3",
+    "input_data": {
+      "session_id": "1840bef4-6120-4a25-90d2-316dcc97403e",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-AI-Readiness-Audit---Copy\\1840bef4-6120-4a25-90d2-316dcc97403e.jsonl",
+      "cwd": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy",
+        "project_dir": "C:\\Users\\RDuff\\AI Readiness Audit - Copy"
+      },
+      "version": "1.0.92",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 7.225505150000002,
+        "total_duration_ms": 5292146,
+        "total_api_duration_ms": 2022023,
+        "total_lines_added": 1404,
+        "total_lines_removed": 90
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
   }
 ]

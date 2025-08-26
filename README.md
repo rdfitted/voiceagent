@@ -9,12 +9,14 @@ A production-ready boilerplate for building intelligent voice AI assistants. Fea
 ### Features:
 
 **🎙️ Voice AI Capabilities:**
+
 - Real-time voice interaction with LiveKit Agents
 - Internet search powered by Exa AI
 - Website scraping and analysis via FireCrawl
 - Extensible tool system for adding new capabilities
 
 **💻 Frontend (Next.js):**
+
 - Modern React 19 + Next.js 15 interface
 - Real-time audio visualization and controls
 - Camera video streaming and screen sharing
@@ -22,6 +24,7 @@ A production-ready boilerplate for building intelligent voice AI assistants. Fea
 - Customizable branding and configuration
 
 **🐍 Backend (Python Agent):**
+
 - LiveKit Agents framework with OpenAI GPT-4
 - Deepgram speech-to-text + Cartesia text-to-speech
 - Function calling tool system
@@ -80,6 +83,7 @@ npm run dev:full
 Open http://localhost:3000 in your browser and start talking to your AI assistant!
 
 **Alternative commands:**
+
 - `npm run dev` - Frontend only
 - `npm run dev:agent` - Python agent only
 
@@ -128,12 +132,14 @@ FIRECRAWL_API_KEY=your_firecrawl_api_key # For website scraping
 ```
 
 **Required for basic functionality:**
+
 - LiveKit credentials (create free account at [livekit.io](https://livekit.io))
 - OpenAI API key for the LLM brain
-- Deepgram API key for speech-to-text  
+- Deepgram API key for speech-to-text
 - Cartesia API key for text-to-speech
 
 **Optional for enhanced features:**
+
 - Exa API key enables internet search capabilities
 - FireCrawl API key enables website scraping
 
