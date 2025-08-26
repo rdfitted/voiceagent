@@ -6,12 +6,6 @@ A production-ready boilerplate for building intelligent voice AI assistants. Fea
 
 **Created by [Fitted Automation](https://github.com/fitted-automation)** - Intelligent automation solutions.
 
-<picture>
-  <source srcset="./.github/assets/readme-hero-dark.webp" media="(prefers-color-scheme: dark)">
-  <source srcset="./.github/assets/readme-hero-light.webp" media="(prefers-color-scheme: light)">
-  <img src="./.github/assets/readme-hero-light.webp" alt="App screenshot">
-</picture>
-
 ### Features:
 
 **🎙️ Voice AI Capabilities:**
