@@ -85,9 +85,15 @@ Just talk to me naturally - I'll automatically use the right tools to help you! 
             result = exa.search(
                 query=query,
                 num_results=3,
-                include_text=True,
                 use_autoprompt=True
             )
+            
+            # Get full content for the results
+            if result.results:
+                result = exa.get_contents(
+                    ids=[item.id for item in result.results],
+                    text=True
+                )
             
             if not result.results:
                 return "I couldn't find any relevant information for that search query."
