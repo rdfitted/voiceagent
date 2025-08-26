@@ -86,8 +86,7 @@ Just talk to me naturally - I'll automatically use the right tools to help you! 
                 query=query,
                 num_results=3,
                 include_text=True,
-                use_autoprompt=True,
-                include_summary=True
+                use_autoprompt=True
             )
             
             if not result.results:
