@@ -1,9 +1,10 @@
-# Agent Starter for React
+# Voice AI Assistant Boilerplate
 
-This is a starter template for [LiveKit Agents](https://docs.livekit.io/agents) that provides a simple voice interface using the [LiveKit JavaScript SDK](https://github.com/livekit/client-sdk-js). It supports [voice](https://docs.livekit.io/agents/start/voice-ai), [transcriptions](https://docs.livekit.io/agents/build/text/), and [virtual avatars](https://docs.livekit.io/agents/integrations/avatar).
+A production-ready boilerplate for building intelligent voice AI assistants. Features a modern React frontend with a Python agent backend that includes internet search, website scraping, and an extensible tool system.
 
-Also available for:
-[Android](https://github.com/livekit-examples/agent-starter-android) • [Flutter](https://github.com/livekit-examples/agent-starter-flutter) • [Swift](https://github.com/livekit-examples/agent-starter-swift) • [React Native](https://github.com/livekit-examples/agent-starter-react-native)
+**Built with:** LiveKit Agents, React, Next.js, OpenAI, Exa AI, and FireCrawl.
+
+**Created by [Fitted Automation](https://github.com/fitted-automation)** - Intelligent automation solutions.
 
 <picture>
   <source srcset="./.github/assets/readme-hero-dark.webp" media="(prefers-color-scheme: dark)">
@@ -13,13 +14,24 @@ Also available for:
 
 ### Features:
 
+**🎙️ Voice AI Capabilities:**
 - Real-time voice interaction with LiveKit Agents
-- Camera video streaming support
-- Screen sharing capabilities
-- Audio visualization and level monitoring
-- Virtual avatar integration
-- Light/dark theme switching with system preference detection
-- Customizable branding, colors, and UI text via configuration
+- Internet search powered by Exa AI
+- Website scraping and analysis via FireCrawl
+- Extensible tool system for adding new capabilities
+
+**💻 Frontend (Next.js):**
+- Modern React 19 + Next.js 15 interface
+- Real-time audio visualization and controls
+- Camera video streaming and screen sharing
+- Light/dark theme with system detection
+- Customizable branding and configuration
+
+**🐍 Backend (Python Agent):**
+- LiveKit Agents framework with OpenAI GPT-4
+- Deepgram speech-to-text + Cartesia text-to-speech
+- Function calling tool system
+- Production-ready error handling and logging
 
 This template is built with Next.js and is free for you to use or modify as you see fit.
 
@@ -48,27 +60,34 @@ agent-starter-react/
 
 ## Getting started
 
-> [!TIP]
-> If you'd like to try this application without modification, you can deploy an instance in just a few clicks with [LiveKit Cloud Sandbox](https://cloud.livekit.io/projects/p_/sandbox/templates/agent-starter-react).
+**⚡ Quick Start Guide** - Get your voice AI assistant running in minutes!
 
-[![Open on LiveKit](https://img.shields.io/badge/Open%20on%20LiveKit%20Cloud-002CF2?style=for-the-badge&logo=external-link)](https://cloud.livekit.io/projects/p_/sandbox/templates/voice-assistant-frontend)
-
-Run the following command to automatically clone this template.
+Clone this repository to get started:
 
 ```bash
-lk app create --template voice-assistant-frontend
+git clone https://github.com/rdfitted/voiceagent.git
+cd voiceagent
 ```
 
-Then run the app with:
+Then run the development environment:
 
 ```bash
-pnpm install
-pnpm dev
+# Install frontend dependencies
+npm install
+
+# Install Python agent dependencies
+cd agent && uv sync
+cd ..
+
+# Run both frontend and agent together
+npm run dev:full
 ```
 
-And open http://localhost:3000 in your browser.
+Open http://localhost:3000 in your browser and start talking to your AI assistant!
 
-You'll also need an agent to speak with. Try our starter agent for [Python](https://github.com/livekit-examples/agent-starter-python), [Node.js](https://github.com/livekit-examples/agent-starter-node), or [create your own from scratch](https://docs.livekit.io/agents/start/voice-ai/).
+**Alternative commands:**
+- `npm run dev` - Frontend only
+- `npm run dev:agent` - Python agent only
 
 ## Configuration
 
@@ -96,16 +115,60 @@ You can update these values in [`app-config.ts`](./app-config.ts) to customize b
 
 #### Environment Variables
 
-You'll also need to configure your LiveKit credentials in `.env.local` (copy `.env.example` if you don't have one):
+Copy `.env.example` to `.env` and configure your API keys:
 
 ```env
+# LiveKit Configuration (required)
 LIVEKIT_API_KEY=your_livekit_api_key
 LIVEKIT_API_SECRET=your_livekit_api_secret
 LIVEKIT_URL=https://your-livekit-server-url
+
+# AI Provider APIs
+OPENAI_API_KEY=your_openai_api_key
+DEEPGRAM_API_KEY=your_deepgram_api_key
+CARTESIA_API_KEY=your_cartesia_api_key
+
+# Tool APIs (optional)
+EXA_API_KEY=your_exa_api_key           # For internet search
+FIRECRAWL_API_KEY=your_firecrawl_api_key # For website scraping
 ```
 
-These are required for the voice agent functionality to work with your LiveKit project.
+**Required for basic functionality:**
+- LiveKit credentials (create free account at [livekit.io](https://livekit.io))
+- OpenAI API key for the LLM brain
+- Deepgram API key for speech-to-text  
+- Cartesia API key for text-to-speech
+
+**Optional for enhanced features:**
+- Exa API key enables internet search capabilities
+- FireCrawl API key enables website scraping
+
+## Built-in Tools
+
+The assistant comes with three powerful tools:
+
+1. **🔍 Internet Search** (`search_internet`) - Uses Exa AI to search the web for current information
+2. **🌐 Website Scraper** (`scrape_website`) - Uses FireCrawl to analyze any website URL
+3. **💡 Capabilities Guide** (`get_capabilities`) - Explains what the assistant can do
+
+### Adding New Tools
+
+To add your own tools, simply add a new method to the `Assistant` class:
+
+```python
+@function_tool
+async def your_custom_tool(self, context: RunContext, param: str):
+    """Tool description for the LLM."""
+    # Your tool logic here
+    return "Tool response"
+```
 
 ## Contributing
 
-This template is open source and we welcome contributions! Please open a PR or issue through GitHub, and don't forget to join us in the [LiveKit Community Slack](https://livekit.io/join-slack)!
+This boilerplate is open source and we welcome contributions! Please open a PR or issue through GitHub.
+
+## About Fitted Automation
+
+Fitted Automation specializes in intelligent automation solutions. This voice AI assistant boilerplate represents our commitment to making advanced AI technology accessible and easy to implement.
+
+For more automation solutions and tools, visit [Fitted Automation](https://fitted-automation.com/).

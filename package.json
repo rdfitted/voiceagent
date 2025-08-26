@@ -1,7 +1,14 @@
 {
-  "name": "agent-starter-react",
-  "version": "0.1.0",
+  "name": "voice-ai-assistant-boilerplate",
+  "version": "1.0.0",
   "private": true,
+  "description": "A production-ready boilerplate for building voice AI assistants with internet search and website scraping capabilities",
+  "author": "Fitted Automation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdfitted/voiceagent"
+  },
+  "keywords": ["voice-ai", "livekit", "nextjs", "python", "assistant", "boilerplate"],
   "scripts": {
     "dev": "next dev --turbopack",
     "dev:agent": "cd agent && .venv\\Scripts\\python src/agent.py dev",

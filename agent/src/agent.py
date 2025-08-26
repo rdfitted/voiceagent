@@ -1,6 +1,9 @@
 import logging
+import os
 
 from dotenv import load_dotenv
+from exa_py import Exa
+from firecrawl import FirecrawlApp
 from livekit.agents import (
     NOT_GIVEN,
     Agent,
@@ -21,30 +24,146 @@ from livekit.plugins.turn_detector.multilingual import MultilingualModel
 
 logger = logging.getLogger("agent")
 
-load_dotenv(".env.local")
+load_dotenv("../.env.local")
+load_dotenv("../.env")
 
 
 class Assistant(Agent):
     def __init__(self) -> None:
         super().__init__(
-            instructions="You are a helpful voice AI assistant. Keep responses concise and conversational. No formatting symbols, emojis, or asterisks. Be friendly and direct.",
+            instructions="""You are a helpful voice AI assistant with powerful capabilities. You can:
+
+1. Search the internet for current information and news
+2. Scrape and analyze content from specific websites  
+3. Help with general questions and conversations
+
+Keep responses conversational and natural for voice interaction. When users ask what you can do, use the get_capabilities tool to explain your features. Be friendly, helpful, and concise.""",
         )
 
     # all functions annotated with @function_tool will be passed to the LLM when this
     # agent is active
     @function_tool
-    async def lookup_weather(self, context: RunContext, location: str):
-        """Use this tool to look up current weather information in the given location.
-
-        If the location is not supported by the weather service, the tool will indicate this. You must tell the user the location's weather is unavailable.
-
-        Args:
-            location: The location to look up weather information for (e.g. city name)
+    async def get_capabilities(self, context: RunContext):
+        """Explain the assistant's capabilities when users ask what you can do or want to know your features.
+        
+        Use this when users ask questions like:
+        - "What can you do?"
+        - "What are your capabilities?" 
+        - "How can you help me?"
+        - "What features do you have?"
         """
 
-        logger.info(f"Looking up weather for {location}")
+        logger.info("Explaining capabilities to user")
 
-        return "sunny with a temperature of 70 degrees."
+        return """I'm a voice AI assistant with several powerful capabilities:
+
+🔍 **Internet Search**: I can search the web for current news, information, and answer questions about recent events. Just ask me anything like "What's happening with AI today?" or "Tell me about recent tech news."
+
+🌐 **Website Analysis**: I can visit and analyze any website you mention. Say something like "What's on the homepage of example.com?" or "Summarize this article for me" with any URL.
+
+💬 **General Conversation**: I can help with questions, explanations, creative tasks, and casual conversation on any topic.
+
+Just talk to me naturally - I'll automatically use the right tools to help you! Try asking me to search for something or check out a website."""
+
+    @function_tool
+    async def search_internet(self, context: RunContext, query: str):
+        """Search the internet for current information using Exa's AI-powered search.
+        
+        Use this tool when you need to find recent information, news, facts, or data 
+        that you don't have knowledge of or that might have changed recently.
+        
+        Args:
+            query: The search query to look up on the internet
+        """
+        
+        logger.info(f"Searching internet for: {query}")
+        
+        try:
+            exa = Exa(api_key=os.getenv("EXA_API_KEY"))
+            
+            # Search for relevant content
+            result = exa.search(
+                query=query,
+                num_results=3,
+                include_text=True,
+                use_autoprompt=True,
+                include_summary=True
+            )
+            
+            if not result.results:
+                return "I couldn't find any relevant information for that search query."
+            
+            # Format the results for the LLM
+            formatted_results = []
+            for item in result.results:
+                formatted_result = f"**{item.title}**\n"
+                if hasattr(item, 'summary') and item.summary:
+                    formatted_result += f"Summary: {item.summary}\n"
+                elif hasattr(item, 'text') and item.text:
+                    # Truncate text if too long
+                    text = item.text[:500] + "..." if len(item.text) > 500 else item.text
+                    formatted_result += f"Content: {text}\n"
+                formatted_result += f"Source: {item.url}\n"
+                formatted_results.append(formatted_result)
+            
+            return "\n\n".join(formatted_results)
+            
+        except Exception as e:
+            logger.error(f"Error searching internet: {e}")
+            return f"I encountered an error while searching the internet: {str(e)}"
+
+    @function_tool
+    async def scrape_website(self, context: RunContext, url: str):
+        """Scrape and analyze content from a specific website URL.
+        
+        Use this tool when the user wants to know about content from a specific website,
+        get information from a particular page, or analyze a URL they mention.
+        
+        Args:
+            url: The website URL to scrape and analyze
+        """
+        
+        logger.info(f"Scraping website: {url}")
+        
+        try:
+            # Initialize FireCrawl
+            app = FirecrawlApp(api_key=os.getenv("FIRECRAWL_API_KEY"))
+            
+            # Scrape the website
+            result = app.scrape_url(url, params={
+                'formats': ['markdown', 'html'],
+                'includeTags': ['title', 'meta', 'h1', 'h2', 'h3', 'p', 'article'],
+                'excludeTags': ['nav', 'footer', 'sidebar', 'ads', 'script'],
+                'waitFor': 2000,
+                'timeout': 30000
+            })
+            
+            if not result or 'markdown' not in result:
+                return f"I couldn't scrape content from {url}. The website might be blocking scrapers or the content isn't accessible."
+            
+            # Get the markdown content
+            markdown_content = result.get('markdown', '')
+            metadata = result.get('metadata', {})
+            
+            # Truncate content if too long (keep it reasonable for voice)
+            max_length = 1500
+            if len(markdown_content) > max_length:
+                markdown_content = markdown_content[:max_length] + "..."
+            
+            # Format the response
+            response = f"**Website: {metadata.get('title', url)}**\n\n"
+            
+            if metadata.get('description'):
+                response += f"Description: {metadata['description']}\n\n"
+            
+            response += f"Content:\n{markdown_content}\n\n"
+            response += f"Source: {url}"
+            
+            return response
+            
+        except Exception as e:
+            logger.error(f"Error scraping website {url}: {e}")
+            return f"I encountered an error while trying to scrape {url}: {str(e)}"
 
 
 def prewarm(proc: JobProcess):

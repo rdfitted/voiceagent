@@ -3,15 +3,19 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "agent-starter-python"
+name = "voice-ai-assistant-agent"
 version = "1.0.0"
-description = "Simple voice AI assistant built with LiveKit Agents for Python"
+description = "Voice AI assistant agent with internet search and website scraping capabilities"
+authors = [{name = "Fitted Automation"}]
 requires-python = ">=3.9"
 
 dependencies = [
     "livekit-agents[openai,turn-detector,silero,cartesia,deepgram]~=1.2",
     "livekit-plugins-noise-cancellation~=0.2",
     "python-dotenv",
+    "exa-py",
+    "httpx",
+    "firecrawl-py",
 ]
 
 [dependency-groups]

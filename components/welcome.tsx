@@ -43,7 +43,7 @@ export const Welcome = ({
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://docs.livekit.io/agents/start/voice-ai/"
+          href="https://github.com/rdfitted/voiceagent"
           className="underline"
         >
           Voice AI quickstart
